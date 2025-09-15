@@ -56,7 +56,7 @@ B1: chạy lệnh để lấy code gốc:
 
 git clone https://github.com/duongdatqbhg-cpu/clean-code.git
 
-cd student-clean-code
+cd clean-code
 
 
 
@@ -97,4 +97,5 @@ CHẠY LỆNH
 git checkout main
 
 git pull origin main
+
 
